@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
-# soc-and-honeynet
+
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshcybertest/threat-hunting-scenario-tor)**
 
 <hr/>
