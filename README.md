@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jermainebailey03/vulnerability-management-program**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jermainebailey/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -36,27 +36,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jermainebailey03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jermainebailey03/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jermainebailey03/azure-network-protocals  
 
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jermainebailey03/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jermainebailey03/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jermainebailey03/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jermainebailey03/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jermainebailey03/azure-network-protocols)
-
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
@@ -65,8 +46,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="Jermaine | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Jermaine
-[instagram]: https://www.instagram.com/Jermaine Bailey
-[linkedin]: https://linkedin.com/in/Jermaine
+[instagram]: https://www.instagram.com/Jermaine
+[linkedin]: https://linkedin.com/in/JermaineBailey
+
+
 
 
 
