@@ -31,7 +31,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: 3. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/jermainebailey03/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jermainebailey03/post-install-config)
   - [osTicket:  Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
