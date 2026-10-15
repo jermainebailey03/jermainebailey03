@@ -31,9 +31,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/jermainebailey03/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/jermainebailey03/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/jermainebailey03/ticket-lifecycle)
+  - [osTicket: 3. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
+  - [osTicket: 2. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
+  - [osTicket: 1. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jermainebailey03/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jermainebailey03/azure-network-protocals  
