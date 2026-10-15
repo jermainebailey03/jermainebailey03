@@ -33,7 +33,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: 3. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
   - [osTicket: 2. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
-  - [osTicket: 1. Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
+  - [osTicket:  Ticket Lifecycle  Examples](https://github.com/jermainebailey03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jermainebailey03/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jermainebailey03/azure-network-protocals  
