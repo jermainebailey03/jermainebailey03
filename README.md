@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/jermainebailey03/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jermainebailey03/threat-hunting-scenario-tor)**
 
 - **[Threat Hunting Scenario https://github.com/jermainebailey03/threat-hunting-scenario)**
 
